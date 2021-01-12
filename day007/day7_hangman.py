@@ -8,8 +8,6 @@ chosen_word = random.choice(word_list)
 
 print(logo)
 lives = 6
-#Testing code
-print(f'The solution is {chosen_word}.')
 
 display = []
 word = len(chosen_word)
