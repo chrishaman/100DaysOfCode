@@ -4,7 +4,6 @@ from hagman_word import word_list
 from hagman_art import logo
 from hagman_art import stages
 
-# word_list = ["aardvark", "baboon", "camel"]
 chosen_word = random.choice(word_list)
 
 print(logo)
